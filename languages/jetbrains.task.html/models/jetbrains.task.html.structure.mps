@@ -113,12 +113,6 @@
     <property role="R5$K7" value="true" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" />
   </node>
-  <node concept="1TIwiD" id="4coWscYJOAv">
-    <property role="EcuMT" value="4834880020855867807" />
-    <property role="TrG5h" value="ClassAttribute" />
-    <property role="34LRSv" value="class" />
-    <ref role="1TJDcQ" node="4coWscYJO7V" resolve="BaseAttribute" />
-  </node>
   <node concept="1TIwiD" id="4coWscYKnIX">
     <property role="EcuMT" value="4834880020856011709" />
     <property role="TrG5h" value="Text" />
